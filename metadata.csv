@@ -2,6 +2,6 @@ Column,Field,Description,Type,Variable.Codes,Units
 1,lat,"latitude, in decimal degrees (negative for S hemisphere)",numeric (double),-,decimal degrees
 2,long,"longitude, in decimal degrees (negative for W hemisphere)",numeric (double),-,decimal degrees
 3,coordinate.precision,"Precision of coordinates, as reported by source or estimated from maps",character (string),"degree- rounded to nearest degree or rough fraction of a degree; minute- reported to the nearest minute in original source; second- reported to the nearest second in original source; decimal degrees to [n] digits- reported in decimal degrees to n digits",-
-4,DriverGroup,"Standardized driver grouping derived from the primary proximate driver by exportForD.R",character (string),"drought, storms, biotic disturbance, wildfire, fuelwood harvest, logging & forestry, permanent agriculture, shifting agriculture, mining & energy, settlements & infrastructure, permafrost thaw, other",-
+4,DriverGroup,"Standardized driver grouping derived from the primary proximate driver by exportForD.R",character (string),"heat and drought, storms, biotic disturbance, wildfire, fuelwood harvest, logging & forestry, permanent agriculture, shifting agriculture, mining & energy, settlements & infrastructure, permafrost thaw, other",-
 5,primary.citation.key,"citation key for original study, in format auth+_+veryshorttitle+_+year (all lowercase)",character (string),-,-
 6,primary.citation.doi,digital object identifier (DOI) of the primary (original) study,character (string),-,-

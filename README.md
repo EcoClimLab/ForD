@@ -26,7 +26,7 @@ The `DriverGroup` field assigns each record to one of the following categories b
 
 | DriverGroup |
 |---|
-| drought |
+| heat and drought |
 | storms |
 | biotic disturbance |
 | wildfire |
