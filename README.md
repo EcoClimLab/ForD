@@ -1,12 +1,13 @@
 # ForD: Global Forest Disturbance Database
 
-ForD is a global database of documented intermediate-scale forest biomass loss events and their proximate and exacerbating drivers. Records were compiled from the primary scientific literature and represent individual mortality events with elevated biomass loss (typically ≥15% annual mortality) occurring after the year 2000.
+ForD is a global database of documented intermediate- to high- severity forest live biomass loss events and their drivers. 
+Records were compiled from the primary scientific literature and represent individual mortality events with elevated live biomass loss (typically ≥15% standing dead trees) occurring after the year 2000.
 
 ## Associated manuscript
 
 This database was compiled as part of a global review of drivers of forest biomass loss:
 
-> [Authors]. (*in preparation*). Global drivers and mitigation of forest biomass loss. *[Global Change Biology]*. DOI: [placeholder]
+> Anderson-Teixeira et al. (*in preparation*). Global drivers and mitigation of live forest biomass loss. *[Global Change Biology]*. DOI: [placeholder]
 
 ## Database contents
 
@@ -43,7 +44,7 @@ The `DriverGroup` field assigns each record to one of the following categories b
 
 If you use this database, please cite:
 
-> [Authors]. (*in preparation*). ForD: Global Forest Disturbance Database (v1.0). Zenodo. DOI: [placeholder]
+> Anderson-Teixeira et al. (*in preparation*). Global drivers and mitigation of live forest biomass loss. *[Global Change Biology]*. DOI: [placeholder]
 
 ## License
 
